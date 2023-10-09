@@ -206,5 +206,57 @@ a {
   margin-top: 15px;
 }
 .hero {
- 
+  position: absolute;
+  width: 50%;
+  top: 30%;
+  left: 25%;
+  font-size: 40px;
+  justify-content: center;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  gap: 30px;
+  
 }
+.login {
+margin-top: 10px;
+}
+
+.login { 
+  width: 50%; 
+  display: inline-block; 
+  padding: 10px;
+  margin: 10px;
+  border: 10px;
+  border-radius: 5px;
+  box-shadow: #707070;
+  font-size: 20px;
+  font-weight: bold;
+
+} 
+
+.create { 
+  width: 50%; 
+  display: inline-block; 
+  padding: 10px;
+  margin: 10px;
+  border: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 500px) { 
+  
+  .login, .create { 
+      width: 70%; 
+  } }
+
+    .login:hover {
+      color: white;
+      background: #7d2ae8;
+    }
+    .create:hover {
+      color: white;
+      background: #7d2ae8;
+    }
