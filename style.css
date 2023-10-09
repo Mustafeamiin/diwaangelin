@@ -249,7 +249,7 @@ margin-top: 10px;
 @media screen and (max-width: 500px) { 
   
   .login, .create { 
-      width: 70%; 
+      width: 100%; 
   } }
 
     .login:hover {
