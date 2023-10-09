@@ -231,6 +231,7 @@ width: 100%;
   border-radius: 5px;
   font-size: 14px;
   font-weight: bold;
+  max-width: 300px;
 
 } 
 
@@ -243,8 +244,8 @@ width: 100%;
   border-radius: 5px;
   font-size: 14px;
   font-weight: bold;
+  max-width: 300px;
 }
-
 @media screen and (max-width: 500px) { 
   
   .login, .create { 
