@@ -244,3 +244,25 @@
   left 20%;
   
 }
+  .cod {
+    position: absolute;
+    top:20%;
+    left:50%;
+    width: 100%;
+    
+   }
+  .mp3 {
+    position: absolute;
+    top:25%;
+    left:50%;
+    width: 100%;
+    color: white;
+
+  }
+  .md {
+    position: absolute;
+    top:5%;
+    left:50%;
+    width: 100%;
+    color: white;
+  }
