@@ -58,7 +58,7 @@ a {
   position: relative;
   height: 100vh;
   width: 100%;
-  background-image: url("bg.jpg");
+  background-image: url("src/bg.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -260,3 +260,8 @@ width: 100%;
       color: white;
       background: #7d2ae8;
     }
+
+  .a, .b, .c {
+    border: 2px blueviolet solid;
+
+  }
