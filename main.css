@@ -237,3 +237,10 @@
     background-size: cover;
     background-position: center;
    }
+.desc { 
+  color: white;
+  position: absolute;
+  top: 30%;
+  left 20%;
+  
+}
