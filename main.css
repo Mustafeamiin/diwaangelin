@@ -245,14 +245,14 @@
   
 }
   .cod {
-    position: absolute;
+    position: relative;
     top:20%;
     left:50%;
     width: 100%;
     
    }
   .mp3 {
-    position: absolute;
+    position: relative;
     top:25%;
     left:50%;
     width: 100%;
@@ -260,9 +260,13 @@
 
   }
   .md {
-    position: absolute;
+    position: relative;
     top:5%;
     left:50%;
     width: 100%;
     color: white;
   }
+
+.d {
+  position: relative
+}
